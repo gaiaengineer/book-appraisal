@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+
+# Outputs of a run (never commit manuscripts or reports: they are confidential)
+.appraisal_work/
+report.md
+ratings.json
+*.docx
+*.epub
+*.pdf
+*.rtf
+/*.txt
+
+# OS / editors
+.DS_Store
+.vscode/
+.idea/

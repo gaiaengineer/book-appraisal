@@ -1,0 +1,1141 @@
+{
+  "bucket": "2020-2024",
+  "set": "bestsellers",
+  "compiled_on": "2026-08-11",
+  "notes": [
+    "Track A selection anchored on NYT/Sunday Times list placement and major prizes; Track B on reported unit sales and chart placement.",
+    "Several Tier-1 sales confirmations use Wikipedia as a secondary aggregation of list placements rather than the NYT list archive directly. Flagged per record; upgrade to primary archive on a later pass.",
+    "Track B titles carry systematically less professional review coverage than Track A. This is a real property of the market, not a research gap — commercial and author-native titles are documented through trade press and sales data rather than criticism. Driver counts for Track B are correspondingly lower.",
+    "Reception evidence for Track A drawn largely from Lit Hub's Book Marks review aggregator, which reproduces attributed verbatim excerpts; the originating outlet is named in every `source` field."
+  ],
+  "dropped": [
+    "Trust (Hernan Diaz, 2022) — co-winner of the 2023 Pulitzer, dropped for this pass because no aggregated review page resolved; candidate for a later pass.",
+    "A Promised Land (Obama, 2020) — the period's biggest seller, but nonfiction and outside the declared fiction scope."
+  ],
+  "books": [
+    {
+      "id": "the-vanishing-half",
+      "title": "The Vanishing Half",
+      "author": "Brit Bennett",
+      "year": 2020,
+      "market": "US",
+      "track": "A",
+      "category": "literary/book-club fiction",
+      "sales_evidence": [
+        {
+          "claim": "Debuted at #1 on the NYT fiction list and stayed on it 42 consecutive weeks.",
+          "quote": "The novel debuted at number one on The New York Times fiction best-seller list",
+          "source": "Wikipedia (secondary aggregation of NYT list data)",
+          "url": "https://en.wikipedia.org/wiki/The_Vanishing_Half",
+          "date": "2026-08-11"
+        }
+      ],
+      "drivers": [
+        {
+          "driver": "STRUCTURAL_DEVICE",
+          "kind": "intrinsic",
+          "confidence": "attributed",
+          "quote": "Bennett's method of sliced-up storytelling takes the spotlight away from Stella",
+          "source": "Bethanne Patrick, Los Angeles Times (via Lit Hub Book Marks)",
+          "url": "https://bookmarks.reviews/reviews/all/the-vanishing-half/",
+          "date": "2026-08-11"
+        },
+        {
+          "driver": "TOPICAL_RESONANCE",
+          "kind": "intrinsic",
+          "confidence": "documented",
+          "quote": "speaks both to the intimate truths of family connection, and to the ever-complex story of race in America",
+          "source": "David Canfield, Entertainment Weekly (via Lit Hub Book Marks)",
+          "url": "https://bookmarks.reviews/reviews/all/the-vanishing-half/",
+          "date": "2026-08-11"
+        },
+        {
+          "driver": "CHARACTER_INVESTMENT",
+          "kind": "intrinsic",
+          "confidence": "attributed",
+          "quote": "Bennett brilliantly creates a network of characters – singular and vivid",
+          "source": "Emily Gray Tedrowe, USA Today (via Lit Hub Book Marks)",
+          "url": "https://bookmarks.reviews/reviews/all/the-vanishing-half/",
+          "date": "2026-08-11"
+        },
+        {
+          "driver": "PROSE_ACCESSIBILITY",
+          "kind": "intrinsic",
+          "confidence": "attributed",
+          "quote": "a novel that reads effortlessly",
+          "source": "Joshunda Sanders, The A.V. Club (via Lit Hub Book Marks)",
+          "url": "https://bookmarks.reviews/reviews/all/the-vanishing-half/",
+          "date": "2026-08-11"
+        },
+        {
+          "driver": "EMOTIONAL_AMPLITUDE",
+          "kind": "intrinsic",
+          "confidence": "attributed",
+          "quote": "moments that stun with quiet power",
+          "source": "Emily Gray Tedrowe, USA Today (via Lit Hub Book Marks)",
+          "url": "https://bookmarks.reviews/reviews/all/the-vanishing-half/",
+          "date": "2026-08-11"
+        },
+        {
+          "driver": "PACE_CONSISTENCY",
+          "kind": "intrinsic",
+          "confidence": "attributed",
+          "quote": "expertly paced",
+          "source": "Kirkus (via Lit Hub Book Marks)",
+          "url": "https://bookmarks.reviews/reviews/all/the-vanishing-half/",
+          "date": "2026-08-11"
+        },
+        {
+          "driver": "VOICE_DISTINCTIVENESS",
+          "kind": "intrinsic",
+          "confidence": "attributed",
+          "quote": "sentences, which are meltingly lush without ever becoming overripe",
+          "source": "Constance Grady, Vox (via Lit Hub Book Marks)",
+          "url": "https://bookmarks.reviews/reviews/all/the-vanishing-half/",
+          "date": "2026-08-11"
+        },
+        {
+          "driver": "SCREEN_ADAPTATION",
+          "kind": "extrinsic",
+          "confidence": "documented",
+          "quote": "HBO secured adaptation rights in the 'low seven-figures' within a month of publication",
+          "source": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/The_Vanishing_Half",
+          "date": "2026-08-11"
+        },
+        {
+          "driver": "PRIZE_RECOGNITION",
+          "kind": "extrinsic",
+          "confidence": "documented",
+          "quote": "longlisted for the National Book Award for Fiction",
+          "source": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/The_Vanishing_Half",
+          "date": "2026-08-11"
+        }
+      ],
+      "unmapped_observations": [
+        "Several reviewers single out authorial restraint and a compassionate omniscient narrator (LRB: 'smoothly drawn along by an all-seeing, compassionate narrator'). The taxonomy has no slot for narrator stance."
+      ],
+      "evidence_thin": false
+    },
+    {
+      "id": "shuggie-bain",
+      "title": "Shuggie Bain",
+      "author": "Douglas Stuart",
+      "year": 2020,
+      "market": "UK/US",
+      "track": "A",
+      "category": "literary fiction",
+      "sales_evidence": [
+        {
+          "claim": "Booker winner; 1.5m copies by April 2022; NYT list #3 after the win.",
+          "quote": "As of April 2022, the novel had sold more than 1.5 million copies globally.",
+          "source": "Wikipedia (secondary aggregation)",
+          "url": "https://en.wikipedia.org/wiki/Shuggie_Bain",
+          "date": "2026-08-11"
+        }
+      ],
+      "drivers": [
+        {
+          "driver": "VOICE_DISTINCTIVENESS",
+          "kind": "intrinsic",
+          "confidence": "attributed",
+          "quote": "lithe, lyrical and full of revelatory descriptive insights",
+          "source": "Alex Preston, The Guardian (via Lit Hub Book Marks)",
+          "url": "https://bookmarks.reviews/reviews/all/shuggie-bain/",
+          "date": "2026-08-11"
+        },
+        {
+          "driver": "CHARACTER_INVESTMENT",
+          "kind": "intrinsic",
+          "confidence": "attributed",
+          "quote": "Agnes is drawn with extraordinary sympathy",
+          "source": "Alex Preston, The Guardian (via Lit Hub Book Marks)",
+          "url": "https://bookmarks.reviews/reviews/all/shuggie-bain/",
+          "date": "2026-08-11"
+        },
+        {
+          "driver": "SETTING_SALIENCE",
+          "kind": "intrinsic",
+          "confidence": "attributed",
+          "quote": "you can almost smell the chip-fat and pub-smoke",
+          "source": "Eliza Gearty, Jacobin (via Lit Hub Book Marks)",
+          "url": "https://bookmarks.reviews/reviews/all/shuggie-bain/",
+          "date": "2026-08-11"
+        },
+        {
+          "driver": "EMOTIONAL_AMPLITUDE",
+          "kind": "intrinsic",
+          "confidence": "attributed",
+          "quote": "almost unbearable",
+          "source": "Katherine A. Powers, Newsday (via Lit Hub Book Marks)",
+          "url": "https://bookmarks.reviews/reviews/all/shuggie-bain/",
+          "date": "2026-08-11"
+        },
+        {
+          "driver": "RELATABILITY_ANCHOR",
+          "kind": "intrinsic",
+          "confidence": "attributed",
+          "quote": "relationship between Agnes and Shuggie is beautifully, tenderly done",
+          "source": "Allan Massie, The Scotsman (via Lit Hub Book Marks)",
+          "url": "https://bookmarks.reviews/reviews/all/shuggie-bain/",
+          "date": "2026-08-11"
+        },
+        {
+          "driver": "PRIZE_RECOGNITION",
+          "kind": "extrinsic",
+          "confidence": "documented",
+          "quote": "was awarded the 2020 Booker Prize",
+          "source": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Shuggie_Bain",
+          "date": "2026-08-11"
+        }
+      ],
+      "unmapped_observations": [
+        "Rejected by at least 30 publishers before acquisition — direct evidence that trade gatekeeping did not predict this book's outcome, and a caution against treating any appraisal score as predictive."
+      ],
+      "evidence_thin": false
+    },
+    {
+      "id": "klara-and-the-sun",
+      "title": "Klara and the Sun",
+      "author": "Kazuo Ishiguro",
+      "year": 2021,
+      "market": "UK/US",
+      "track": "A",
+      "category": "literary/speculative fiction",
+      "sales_evidence": [
+        {
+          "claim": "Debuted at #6 on the NYT fiction list; longlisted for the 2021 Booker Prize.",
+          "quote": "debuted at number six on The New York Times fiction best-seller list",
+          "source": "Wikipedia (secondary aggregation)",
+          "url": "https://en.wikipedia.org/wiki/Klara_and_the_Sun",
+          "date": "2026-08-11"
+        }
+      ],
+      "drivers": [
+        {
+          "driver": "HIGH_CONCEPT",
+          "kind": "intrinsic",
+          "confidence": "documented",
+          "quote": "a novel not just about a machine but narrated by a machine",
+          "source": "Anne Enright, The Guardian (via Lit Hub Book Marks)",
+          "url": "https://bookmarks.reviews/reviews/all/klara-and-the-sun/",
+          "date": "2026-08-11"
+        },
+        {
+          "driver": "VOICE_DISTINCTIVENESS",
+          "kind": "intrinsic",
+          "confidence": "attributed",
+          "quote": "Klara's sincere, unironic point of view",
+          "source": "Heller McAlpin, Christian Science Monitor (via Lit Hub Book Marks)",
+          "url": "https://bookmarks.reviews/reviews/all/klara-and-the-sun/",
+          "date": "2026-08-11"
+        },
+        {
+          "driver": "TOPICAL_RESONANCE",
+          "kind": "intrinsic",
+          "confidence": "documented",
+          "quote": "a new definitive myth about the world we're about to face",
+          "source": "John Self, The Times (via Lit Hub Book Marks)",
+          "url": "https://bookmarks.reviews/reviews/all/klara-and-the-sun/",
+          "date": "2026-08-11"
+        },
+        {
+          "driver": "EMOTIONAL_AMPLITUDE",
+          "kind": "intrinsic",
+          "confidence": "attributed",
+          "quote": "emotional gut-punch",
+          "source": "Ron Charles, Washington Post (via Lit Hub Book Marks)",
+          "url": "https://bookmarks.reviews/reviews/all/klara-and-the-sun/",
+          "date": "2026-08-11"
+        },
+        {
+          "driver": "STRUCTURAL_DEVICE",
+          "kind": "intrinsic",
+          "confidence": "attributed",
+          "quote": "stilted limitations also create a delectable puzzle box",
+          "source": "Barbara VanDenburgh, USA Today (via Lit Hub Book Marks)",
+          "url": "https://bookmarks.reviews/reviews/all/klara-and-the-sun/",
+          "date": "2026-08-11"
+        },
+        {
+          "driver": "PRIZE_RECOGNITION",
+          "kind": "extrinsic",
+          "confidence": "documented",
+          "quote": "was longlisted for the 2021 Booker Prize",
+          "source": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Klara_and_the_Sun",
+          "date": "2026-08-11"
+        },
+        {
+          "driver": "AUTHOR_PLATFORM",
+          "kind": "extrinsic",
+          "confidence": "attributed",
+          "quote": "Ishiguro...was awarded the Nobel prize",
+          "source": "Anne Enright, The Guardian",
+          "url": "https://en.wikipedia.org/wiki/Klara_and_the_Sun",
+          "date": "2026-08-11"
+        }
+      ],
+      "unmapped_observations": [
+        "Two reviewers named pacing problems in the first 200 pages (The Spectator) yet the book still sold — a reminder that HOOK_VELOCITY is not a gate when AUTHOR_PLATFORM is this strong."
+      ],
+      "evidence_thin": false
+    },
+    {
+      "id": "lessons-in-chemistry",
+      "title": "Lessons in Chemistry",
+      "author": "Bonnie Garmus",
+      "year": 2022,
+      "market": "UK/US",
+      "track": "A",
+      "category": "book-club/upmarket commercial fiction",
+      "sales_evidence": [
+        {
+          "claim": "Multi-million-copy #1 NYT and #1 Sunday Times bestseller; most-borrowed library title 2023.",
+          "quote": "In 2023, it was the most borrowed book from several public libraries",
+          "source": "Wikipedia (secondary aggregation)",
+          "url": "https://en.wikipedia.org/wiki/Lessons_in_Chemistry_(novel)",
+          "date": "2026-08-11"
+        }
+      ],
+      "drivers": [
+        {
+          "driver": "CHARACTER_INVESTMENT",
+          "kind": "intrinsic",
+          "confidence": "documented",
+          "quote": "assured voice, an indelible heroine",
+          "source": "Karen Heller, The Washington Post (via Lit Hub Book Marks)",
+          "url": "https://bookmarks.reviews/reviews/all/lessons-in-chemistry/",
+          "date": "2026-08-11"
+        },
+        {
+          "driver": "VOICE_DISTINCTIVENESS",
+          "kind": "intrinsic",
+          "confidence": "attributed",
+          "quote": "smart, funny, big-hearted debut",
+          "source": "Patricia Nicol, The Sunday Times (via Lit Hub Book Marks)",
+          "url": "https://bookmarks.reviews/reviews/all/lessons-in-chemistry/",
+          "date": "2026-08-11"
+        },
+        {
+          "driver": "TOPICAL_RESONANCE",
+          "kind": "intrinsic",
+          "confidence": "documented",
+          "quote": "adorable plea for rationalism and gender equality",
+          "source": "Kirkus (via Lit Hub Book Marks)",
+          "url": "https://bookmarks.reviews/reviews/all/lessons-in-chemistry/",
+          "date": "2026-08-11"
+        },
+        {
+          "driver": "PACE_CONSISTENCY",
+          "kind": "intrinsic",
+          "confidence": "attributed",
+          "quote": "pace never slackens",
+          "source": "Patricia Nicol, The Sunday Times (via Lit Hub Book Marks)",
+          "url": "https://bookmarks.reviews/reviews/all/lessons-in-chemistry/",
+          "date": "2026-08-11"
+        },
+        {
+          "driver": "EMOTIONAL_AMPLITUDE",
+          "kind": "intrinsic",
+          "confidence": "attributed",
+          "quote": "devastating and funny",
+          "source": "Carole V. Bell, BookPage (via Lit Hub Book Marks)",
+          "url": "https://bookmarks.reviews/reviews/all/lessons-in-chemistry/",
+          "date": "2026-08-11"
+        },
+        {
+          "driver": "SETTING_SALIENCE",
+          "kind": "intrinsic",
+          "confidence": "attributed",
+          "quote": "witty and sharp dramedy about resilience and found families",
+          "source": "Carole V. Bell, BookPage (via Lit Hub Book Marks)",
+          "url": "https://bookmarks.reviews/reviews/all/lessons-in-chemistry/",
+          "date": "2026-08-11"
+        },
+        {
+          "driver": "SCREEN_ADAPTATION",
+          "kind": "extrinsic",
+          "confidence": "documented",
+          "quote": "The miniseries adaptation premiered on October 13, 2023",
+          "source": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Lessons_in_Chemistry_(novel)",
+          "date": "2026-08-11"
+        }
+      ],
+      "unmapped_observations": [
+        "Publishers Weekly dissented sharply ('about as deep as a Hallmark card') while the book became one of the period's biggest sellers — trade-review sentiment did not track commercial outcome."
+      ],
+      "evidence_thin": false
+    },
+    {
+      "id": "tomorrow-and-tomorrow-and-tomorrow",
+      "title": "Tomorrow, and Tomorrow, and Tomorrow",
+      "author": "Gabrielle Zevin",
+      "year": 2022,
+      "market": "US",
+      "track": "A",
+      "category": "upmarket literary fiction",
+      "sales_evidence": [
+        {
+          "claim": "Over a year on the NYT bestseller list; named to the NYT 100 Best Books of the 21st Century.",
+          "quote": "spent over a year on the New York Times Best Seller List",
+          "source": "Penguin Random House title page (publisher)",
+          "url": "https://www.penguinrandomhouse.com/books/690750/tomorrow-and-tomorrow-and-tomorrow-by-gabrielle-zevin/",
+          "date": "2026-08-11"
+        }
+      ],
+      "drivers": [
+        {
+          "driver": "CHARACTER_INVESTMENT",
+          "kind": "intrinsic",
+          "confidence": "documented",
+          "quote": "development of Sam and Sadie's relationship is pure wizardry",
+          "source": "Chika Gujarathi, BookPage (via Lit Hub Book Marks)",
+          "url": "https://bookmarks.reviews/reviews/all/tomorrow-and-tomorrow-and-tomorrow/",
+          "date": "2026-08-11"
+        },
+        {
+          "driver": "TOPICAL_RESONANCE",
+          "kind": "intrinsic",
+          "confidence": "documented",
+          "quote": "exhilarating, timely and emotive book",
+          "source": "Keith Stuart, The Guardian (via Lit Hub Book Marks)",
+          "url": "https://bookmarks.reviews/reviews/all/tomorrow-and-tomorrow-and-tomorrow/",
+          "date": "2026-08-11"
+        },
+        {
+          "driver": "PROSE_ACCESSIBILITY",
+          "kind": "intrinsic",
+          "confidence": "documented",
+          "quote": "language that is pleasingly accessible to non-gamers",
+          "source": "Pippa Bailey, The Guardian (via Lit Hub Book Marks)",
+          "url": "https://bookmarks.reviews/reviews/all/tomorrow-and-tomorrow-and-tomorrow/",
+          "date": "2026-08-11"
+        },
+        {
+          "driver": "SETTING_SALIENCE",
+          "kind": "intrinsic",
+          "confidence": "attributed",
+          "quote": "renders the process of designing a great video game as enthralling as the pursuit of that great white whale",
+          "source": "Maureen Corrigan, NPR (via Lit Hub Book Marks)",
+          "url": "https://bookmarks.reviews/reviews/all/tomorrow-and-tomorrow-and-tomorrow/",
+          "date": "2026-08-11"
+        },
+        {
+          "driver": "ENDING_PAYOFF",
+          "kind": "intrinsic",
+          "confidence": "attributed",
+          "quote": "poignant finale",
+          "source": "Samantha H. Chung, The Harvard Crimson (via Lit Hub Book Marks)",
+          "url": "https://bookmarks.reviews/reviews/all/tomorrow-and-tomorrow-and-tomorrow/",
+          "date": "2026-08-11"
+        },
+        {
+          "driver": "HIGH_CONCEPT",
+          "kind": "intrinsic",
+          "confidence": "attributed",
+          "quote": "sweeping narrative about a male-female relationship that's not romantic",
+          "source": "Maureen Corrigan, NPR (via Lit Hub Book Marks)",
+          "url": "https://bookmarks.reviews/reviews/all/tomorrow-and-tomorrow-and-tomorrow/",
+          "date": "2026-08-11"
+        }
+      ],
+      "unmapped_observations": [],
+      "evidence_thin": false
+    },
+    {
+      "id": "demon-copperhead",
+      "title": "Demon Copperhead",
+      "author": "Barbara Kingsolver",
+      "year": 2022,
+      "market": "US",
+      "track": "A",
+      "category": "literary fiction",
+      "sales_evidence": [
+        {
+          "claim": "Won the 2023 Pulitzer Prize for Fiction and the 2023 Women's Prize for Fiction; on both WaPo and NYT best-of-2022 lists.",
+          "quote": "2023 Pulitzer Prize for Fiction, won",
+          "source": "Wikipedia (secondary aggregation of prize records)",
+          "url": "https://en.wikipedia.org/wiki/Demon_Copperhead",
+          "date": "2026-08-11"
+        }
+      ],
+      "drivers": [
+        {
+          "driver": "VOICE_DISTINCTIVENESS",
+          "kind": "intrinsic",
+          "confidence": "documented",
+          "quote": "The voice of Demon, the novel's puckish narrator, is so original",
+          "source": "Mark Athitakis, USA Today (via Lit Hub Book Marks)",
+          "url": "https://bookmarks.reviews/reviews/all/demon-copperhead/",
+          "date": "2026-08-11"
+        },
+        {
+          "driver": "PROPULSION_MECHANICS",
+          "kind": "intrinsic",
+          "confidence": "attributed",
+          "quote": "the plot so engrossingly hectic",
+          "source": "Mark Athitakis, USA Today (via Lit Hub Book Marks)",
+          "url": "https://bookmarks.reviews/reviews/all/demon-copperhead/",
+          "date": "2026-08-11"
+        },
+        {
+          "driver": "TOPICAL_RESONANCE",
+          "kind": "intrinsic",
+          "confidence": "documented",
+          "quote": "fierce examination of contemporary poverty and drug addiction",
+          "source": "Ron Charles, The Washington Post (via Lit Hub Book Marks)",
+          "url": "https://bookmarks.reviews/reviews/all/demon-copperhead/",
+          "date": "2026-08-11"
+        },
+        {
+          "driver": "SETTING_SALIENCE",
+          "kind": "intrinsic",
+          "confidence": "attributed",
+          "quote": "capturing a sense of place",
+          "source": "Carol O'Sullivan, Pittsburgh Post-Gazette (via Lit Hub Book Marks)",
+          "url": "https://bookmarks.reviews/reviews/all/demon-copperhead/",
+          "date": "2026-08-11"
+        },
+        {
+          "driver": "EMOTIONAL_AMPLITUDE",
+          "kind": "intrinsic",
+          "confidence": "documented",
+          "quote": "Equal parts hilarious and heartbreaking",
+          "source": "Ron Charles, The Washington Post (via Lit Hub Book Marks)",
+          "url": "https://bookmarks.reviews/reviews/all/demon-copperhead/",
+          "date": "2026-08-11"
+        },
+        {
+          "driver": "STRUCTURAL_DEVICE",
+          "kind": "intrinsic",
+          "confidence": "attributed",
+          "quote": "Virtuoso present-day variation",
+          "source": "Donna Seaman, Booklist (via Lit Hub Book Marks)",
+          "url": "https://bookmarks.reviews/reviews/all/demon-copperhead/",
+          "date": "2026-08-11"
+        },
+        {
+          "driver": "CHARACTER_INVESTMENT",
+          "kind": "intrinsic",
+          "confidence": "attributed",
+          "quote": "richly drawn characters",
+          "source": "Carol O'Sullivan, Pittsburgh Post-Gazette (via Lit Hub Book Marks)",
+          "url": "https://bookmarks.reviews/reviews/all/demon-copperhead/",
+          "date": "2026-08-11"
+        },
+        {
+          "driver": "PRIZE_RECOGNITION",
+          "kind": "extrinsic",
+          "confidence": "documented",
+          "quote": "2023 Women's Prize for Fiction, won",
+          "source": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Demon_Copperhead",
+          "date": "2026-08-11"
+        },
+        {
+          "driver": "PRIOR_SALES_TRACK",
+          "kind": "extrinsic",
+          "confidence": "attributed",
+          "quote": "Kingsolver's second win in this category",
+          "source": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Demon_Copperhead",
+          "date": "2026-08-11"
+        }
+      ],
+      "unmapped_observations": [
+        "Two reviewers flagged the narrator's voice as an initial barrier ('takes some getting used to', AP) — voice distinctiveness carries an entry cost as well as a payoff."
+      ],
+      "evidence_thin": false
+    },
+    {
+      "id": "the-midnight-library",
+      "title": "The Midnight Library",
+      "author": "Matt Haig",
+      "year": 2020,
+      "market": "UK/US",
+      "track": "A",
+      "category": "book-club/upmarket speculative fiction",
+      "sales_evidence": [
+        {
+          "claim": "733,221 UK copies by September 2023; Goodreads Choice Award for Fiction 2020; GMA Book Club pick.",
+          "quote": "By September 2023, UK sales of the novel had reached 733,221 copies",
+          "source": "Wikipedia (secondary aggregation of Nielsen data)",
+          "url": "https://en.wikipedia.org/wiki/The_Midnight_Library",
+          "date": "2026-08-11"
+        }
+      ],
+      "drivers": [
+        {
+          "driver": "HIGH_CONCEPT",
+          "kind": "intrinsic",
+          "confidence": "documented",
+          "quote": "Every book provides a chance to try another life you could have lived",
+          "source": "Bookreporter (via Lit Hub Book Marks)",
+          "url": "https://bookmarks.reviews/reviews/all/the-midnight-library/",
+          "date": "2026-08-11"
+        },
+        {
+          "driver": "RELATABILITY_ANCHOR",
+          "kind": "intrinsic",
+          "confidence": "documented",
+          "quote": "themes of restlessness, disappointment, disaffection, and the constant desire to do things differently",
+          "source": "ZYZZYVA (via Lit Hub Book Marks)",
+          "url": "https://bookmarks.reviews/reviews/all/the-midnight-library/",
+          "date": "2026-08-11"
+        },
+        {
+          "driver": "EMOTIONAL_AMPLITUDE",
+          "kind": "intrinsic",
+          "confidence": "documented",
+          "quote": "an uplifting antidote to the cult of self-improvement",
+          "source": "The Arts Desk (via Lit Hub Book Marks)",
+          "url": "https://bookmarks.reviews/reviews/all/the-midnight-library/",
+          "date": "2026-08-11"
+        },
+        {
+          "driver": "PROPULSION_MECHANICS",
+          "kind": "intrinsic",
+          "confidence": "attributed",
+          "quote": "engaging, page-turning quality",
+          "source": "The Scotsman (via Lit Hub Book Marks)",
+          "url": "https://bookmarks.reviews/reviews/all/the-midnight-library/",
+          "date": "2026-08-11"
+        },
+        {
+          "driver": "PROSE_ACCESSIBILITY",
+          "kind": "intrinsic",
+          "confidence": "attributed",
+          "quote": "beguiling read, filled with warmth and humour",
+          "source": "The Times (via Lit Hub Book Marks)",
+          "url": "https://bookmarks.reviews/reviews/all/the-midnight-library/",
+          "date": "2026-08-11"
+        },
+        {
+          "driver": "CELEBRITY_BOOKCLUB",
+          "kind": "extrinsic",
+          "confidence": "documented",
+          "quote": "Good Morning America selected it as a Book Club Pick",
+          "source": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/The_Midnight_Library",
+          "date": "2026-08-11"
+        },
+        {
+          "driver": "AUTHOR_PLATFORM",
+          "kind": "extrinsic",
+          "confidence": "attributed",
+          "quote": "Haig's first appearance at number one on the overall chart",
+          "source": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/The_Midnight_Library",
+          "date": "2026-08-11"
+        }
+      ],
+      "unmapped_observations": [],
+      "evidence_thin": false
+    },
+    {
+      "id": "the-thursday-murder-club",
+      "title": "The Thursday Murder Club",
+      "author": "Richard Osman",
+      "year": 2020,
+      "market": "UK",
+      "track": "A",
+      "category": "cosy crime",
+      "sales_evidence": [
+        {
+          "claim": "45,000 copies in three days; first debut novel to be UK Christmas number one; fastest-selling adult crime debut on record.",
+          "quote": "sold 45,000 copies in its first three days on sale",
+          "source": "Wikipedia (secondary aggregation, citing The Guardian)",
+          "url": "https://en.wikipedia.org/wiki/The_Thursday_Murder_Club",
+          "date": "2026-08-11"
+        }
+      ],
+      "drivers": [
+        {
+          "driver": "CHARACTER_INVESTMENT",
+          "kind": "intrinsic",
+          "confidence": "documented",
+          "quote": "full-blown personalities—witty, tragic, sad, forgiving",
+          "source": "Bookreporter (via Lit Hub Book Marks)",
+          "url": "https://bookmarks.reviews/reviews/all/the-thursday-murder-club/",
+          "date": "2026-08-11"
+        },
+        {
+          "driver": "VOICE_DISTINCTIVENESS",
+          "kind": "intrinsic",
+          "confidence": "documented",
+          "quote": "Humor is everywhere, and it is very British",
+          "source": "Christian Science Monitor (via Lit Hub Book Marks)",
+          "url": "https://bookmarks.reviews/reviews/all/the-thursday-murder-club/",
+          "date": "2026-08-11"
+        },
+        {
+          "driver": "CATEGORY_FIT",
+          "kind": "intrinsic",
+          "confidence": "documented",
+          "quote": "A top-class cozy infused with dry wit",
+          "source": "Kirkus (via Lit Hub Book Marks)",
+          "url": "https://bookmarks.reviews/reviews/all/the-thursday-murder-club/",
+          "date": "2026-08-11"
+        },
+        {
+          "driver": "PROPULSION_MECHANICS",
+          "kind": "intrinsic",
+          "confidence": "attributed",
+          "quote": "zips nicely along from start to end",
+          "source": "Irish Independent (via Lit Hub Book Marks)",
+          "url": "https://bookmarks.reviews/reviews/all/the-thursday-murder-club/",
+          "date": "2026-08-11"
+        },
+        {
+          "driver": "TROPE_STACK",
+          "kind": "intrinsic",
+          "confidence": "attributed",
+          "quote": "a fascinating primer in detection",
+          "source": "Kirkus (via Lit Hub Book Marks)",
+          "url": "https://bookmarks.reviews/reviews/all/the-thursday-murder-club/",
+          "date": "2026-08-11"
+        },
+        {
+          "driver": "AUTHOR_PLATFORM",
+          "kind": "extrinsic",
+          "confidence": "documented",
+          "quote": "Richard Osman is a British television presenter who made his debut as a novelist",
+          "source": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/The_Thursday_Murder_Club",
+          "date": "2026-08-11"
+        },
+        {
+          "driver": "PUBLISHER_INVESTMENT",
+          "kind": "extrinsic",
+          "confidence": "documented",
+          "quote": "acquired rights to both ... for a seven-figure sum",
+          "source": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/The_Thursday_Murder_Club",
+          "date": "2026-08-11"
+        }
+      ],
+      "unmapped_observations": [
+        "Two outlets called the mystery itself weak (Seattle Times: 'a bit run-of-the-mill'; Guardian: 'barely credible plot twist') — in cosy crime, plot quality was not what sold it."
+      ],
+      "evidence_thin": false
+    },
+    {
+      "id": "yellowface",
+      "title": "Yellowface",
+      "author": "R. F. Kuang",
+      "year": 2023,
+      "market": "US/UK",
+      "track": "A",
+      "category": "literary satire/thriller",
+      "sales_evidence": [
+        {
+          "claim": "Instant bestseller; won the 2024 British Book Awards Fiction Book of the Year and the 2024 Goodreads Choice Award for Fiction.",
+          "quote": "Won the British Book Awards Fiction Book of the Year",
+          "source": "Wikipedia (secondary aggregation of award records)",
+          "url": "https://en.wikipedia.org/wiki/Yellowface_(novel)",
+          "date": "2026-08-11"
+        }
+      ],
+      "drivers": [
+        {
+          "driver": "VOICE_DISTINCTIVENESS",
+          "kind": "intrinsic",
+          "confidence": "documented",
+          "quote": "addictive and slightly sickening",
+          "source": "Amal El-Mohtar, The New York Times (via Lit Hub Book Marks)",
+          "url": "https://bookmarks.reviews/reviews/all/yellowface/",
+          "date": "2026-08-11"
+        },
+        {
+          "driver": "PROPULSION_MECHANICS",
+          "kind": "intrinsic",
+          "confidence": "documented",
+          "quote": "almost compulsively readable, and its plot is fast-paced and relentless",
+          "source": "Lacy Baugher Milas, Paste (via Lit Hub Book Marks)",
+          "url": "https://bookmarks.reviews/reviews/all/yellowface/",
+          "date": "2026-08-11"
+        },
+        {
+          "driver": "TOPICAL_RESONANCE",
+          "kind": "intrinsic",
+          "confidence": "documented",
+          "quote": "the most granular critique of commercial publishing I've encountered in fiction",
+          "source": "Amal El-Mohtar, The New York Times (via Lit Hub Book Marks)",
+          "url": "https://bookmarks.reviews/reviews/all/yellowface/",
+          "date": "2026-08-11"
+        },
+        {
+          "driver": "PROSE_ACCESSIBILITY",
+          "kind": "intrinsic",
+          "confidence": "attributed",
+          "quote": "the zippy, immersive cadence that's been associated with young adult novels",
+          "source": "Amal El-Mohtar, The New York Times (via Lit Hub Book Marks)",
+          "url": "https://bookmarks.reviews/reviews/all/yellowface/",
+          "date": "2026-08-11"
+        },
+        {
+          "driver": "STRUCTURAL_DEVICE",
+          "kind": "intrinsic",
+          "confidence": "attributed",
+          "quote": "a sharp deconstruction of social media's impact on the writing world",
+          "source": "Gabino Iglesias, Boston Globe (via Lit Hub Book Marks)",
+          "url": "https://bookmarks.reviews/reviews/all/yellowface/",
+          "date": "2026-08-11"
+        },
+        {
+          "driver": "PRIOR_SALES_TRACK",
+          "kind": "extrinsic",
+          "confidence": "attributed",
+          "quote": "reads quickly and much faster than anything she has ever written",
+          "source": "Reema Saleh, Chicago Review (via Lit Hub Book Marks)",
+          "url": "https://bookmarks.reviews/reviews/all/yellowface/",
+          "date": "2026-08-11"
+        }
+      ],
+      "unmapped_observations": [
+        "An unlikeable first-person narrator is central to the appeal here, and to several other sellers in this bucket. The taxonomy currently folds this into VOICE_DISTINCTIVENESS; it may deserve its own driver once more buckets are in."
+      ],
+      "evidence_thin": false
+    },
+    {
+      "id": "fourth-wing",
+      "title": "Fourth Wing",
+      "author": "Rebecca Yarros",
+      "year": 2023,
+      "market": "US",
+      "track": "B",
+      "category": "romantasy",
+      "sales_evidence": [
+        {
+          "claim": "Two million copies in six months; 18 weeks at #1 on the NYT list; ~30 translations.",
+          "quote": "sold over two million copies in its first six months",
+          "source": "Wikipedia (secondary aggregation)",
+          "url": "https://en.wikipedia.org/wiki/Fourth_Wing",
+          "date": "2026-08-11"
+        },
+        {
+          "claim": "Goodreads rating count as a readership-scale benchmark for this bucket.",
+          "quote": "4.56 avg rating — 3,900,856 ratings",
+          "source": "Goodreads search listing, checked 2026-08-11",
+          "url": "https://www.goodreads.com/search?q=Fourth+Wing+Rebecca+Yarros",
+          "date": "2026-08-11"
+        }
+      ],
+      "drivers": [
+        {
+          "driver": "TROPE_STACK",
+          "kind": "intrinsic",
+          "confidence": "documented",
+          "quote": "familiar tropes",
+          "source": "Paste Magazine (via Wikipedia reception section)",
+          "url": "https://en.wikipedia.org/wiki/Fourth_Wing",
+          "date": "2026-08-11"
+        },
+        {
+          "driver": "SETTING_SALIENCE",
+          "kind": "intrinsic",
+          "confidence": "documented",
+          "quote": "worldbuilding, characters, and 'sexy dark academia aesthetic'",
+          "source": "Publishers Weekly (via Wikipedia reception section)",
+          "url": "https://en.wikipedia.org/wiki/Fourth_Wing",
+          "date": "2026-08-11"
+        },
+        {
+          "driver": "CATEGORY_FIT",
+          "kind": "intrinsic",
+          "confidence": "documented",
+          "quote": "helping to popularize the 'romantasy' genre, which blends elements of romance and fantasy genres",
+          "source": "Wikipedia reception section",
+          "url": "https://en.wikipedia.org/wiki/Fourth_Wing",
+          "date": "2026-08-11"
+        },
+        {
+          "driver": "SERIES_POTENTIAL",
+          "kind": "intrinsic",
+          "confidence": "documented",
+          "quote": "Fourth Wing and its two follow-ups had sold more than 12 million copies",
+          "source": "Wikipedia (secondary aggregation)",
+          "url": "https://en.wikipedia.org/wiki/Fourth_Wing",
+          "date": "2026-08-11"
+        },
+        {
+          "driver": "SOCIAL_VIRALITY",
+          "kind": "extrinsic",
+          "confidence": "documented",
+          "quote": "more than a billion views combined",
+          "source": "Wikipedia, on #FourthWing and #RebeccaYarros hashtags",
+          "url": "https://en.wikipedia.org/wiki/Fourth_Wing",
+          "date": "2026-08-11"
+        }
+      ],
+      "unmapped_observations": [],
+      "evidence_thin": false
+    },
+    {
+      "id": "it-ends-with-us",
+      "title": "It Ends with Us",
+      "author": "Colleen Hoover",
+      "year": 2016,
+      "market": "US",
+      "track": "B",
+      "category": "contemporary romance / issue-driven commercial fiction",
+      "sales_evidence": [
+        {
+          "claim": "Published 2016; became a top seller of 2021-22 via BookTok. Included in this bucket on the basis of when it sold, not when it was published.",
+          "quote": "six years later, the book had sold 4.1 million copies, and it has been on the NYT Best Seller list for 83 total weeks",
+          "source": "Wikipedia / trade reporting aggregation",
+          "url": "https://en.wikipedia.org/wiki/It_Ends_with_Us",
+          "date": "2026-08-11"
+        }
+      ],
+      "drivers": [
+        {
+          "driver": "EMOTIONAL_AMPLITUDE",
+          "kind": "intrinsic",
+          "confidence": "documented",
+          "quote": "well over a million viewers watched TikTok user Eloise Hampson's tearful time-lapsed videos chronicling her emotional reactions",
+          "source": "Trade/press aggregation via Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/It_Ends_with_Us",
+          "date": "2026-08-11"
+        },
+        {
+          "driver": "PROSE_ACCESSIBILITY",
+          "kind": "intrinsic",
+          "confidence": "documented",
+          "quote": "don't have this sense of 'I should be reading a better book,' as in better written, more intellectually challenging",
+          "source": "Katie Little, University of Colorado Boulder Arts & Sciences Magazine",
+          "url": "https://www.colorado.edu/asmagazine/2024/11/20/readers-are-taking-trash",
+          "date": "2026-08-11"
+        },
+        {
+          "driver": "TOPICAL_RESONANCE",
+          "kind": "intrinsic",
+          "confidence": "documented",
+          "quote": "a woman's endurance of domestic abuse that young TikTok users have embraced",
+          "source": "Press aggregation via Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/It_Ends_with_Us",
+          "date": "2026-08-11"
+        },
+        {
+          "driver": "SOCIAL_VIRALITY",
+          "kind": "extrinsic",
+          "confidence": "documented",
+          "quote": "The second round in the book's popularity hit after it went viral on BookTok",
+          "source": "Press aggregation via Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/It_Ends_with_Us",
+          "date": "2026-08-11"
+        }
+      ],
+      "unmapped_observations": [
+        "The 2016 launch sold ~21,000 copies in a month and faded. The text did not change; the distribution did. Strongest single caution in this bucket against treating text-only scoring as predictive."
+      ],
+      "evidence_thin": false
+    },
+    {
+      "id": "the-seven-husbands-of-evelyn-hugo",
+      "title": "The Seven Husbands of Evelyn Hugo",
+      "author": "Taylor Jenkins Reid",
+      "year": 2017,
+      "market": "US",
+      "track": "B",
+      "category": "historical/book-club commercial fiction",
+      "sales_evidence": [
+        {
+          "claim": "Published 2017; hit the NYT paperback list in January 2021 and sold throughout this bucket. Placed by when it sold.",
+          "quote": "Three years after its initial publication ... hit the New York Times Best Sellers list in paperback in January 2021",
+          "source": "School Library Journal (via search index; page returned 403 on direct fetch)",
+          "url": "https://www.slj.com/story/as-seen-on-booktok-inspiring-young-readers-tiktok-is-a-boon-for-books-libraries",
+          "date": "2026-08-11"
+        }
+      ],
+      "drivers": [
+        {
+          "driver": "SOCIAL_VIRALITY",
+          "kind": "extrinsic",
+          "confidence": "documented",
+          "quote": "The novel became a BookTok sensation.",
+          "source": "School Library Journal (via search index)",
+          "url": "https://www.slj.com/story/as-seen-on-booktok-inspiring-young-readers-tiktok-is-a-boon-for-books-libraries",
+          "date": "2026-08-11"
+        }
+      ],
+      "unmapped_observations": [
+        "Widely credited by readers with bisexual representation and a late structural twist, but the sources found for those claims were personal blogs, which the protocol excludes. Needs a Tier-2 source before any driver is recorded."
+      ],
+      "evidence_thin": true
+    },
+    {
+      "id": "the-housemaid",
+      "title": "The Housemaid",
+      "author": "Freida McFadden",
+      "year": 2022,
+      "market": "US/UK",
+      "track": "B",
+      "category": "psychological thriller",
+      "sales_evidence": [
+        {
+          "claim": "Series sales reached 1.8 million by 2023; 60 weeks on the NYT trade paperback list; author began in Kindle self-publishing.",
+          "quote": "sales soar to 1.8 million",
+          "source": "Bookouture (publisher announcement)",
+          "url": "https://bookouture.com/bookouture-sign-third-book-in-freida-mcfaddens-internationally-bestselling-housemaid-thriller-series-as-sales-soar-to-1-8-million/",
+          "date": "2026-08-11"
+        },
+        {
+          "claim": "Consecutive UK chart number ones.",
+          "quote": "The Housemaid dusts off a second consecutive number one",
+          "source": "The Bookseller, bestsellers chart report",
+          "url": "https://www.thebookseller.com/bestsellers/freidas-carload-mcfadden-dominates-charts-as-the-housemaid-dusts-off-a-second-consecutive-number-one",
+          "date": "2026-08-11"
+        }
+      ],
+      "drivers": [
+        {
+          "driver": "SERIES_POTENTIAL",
+          "kind": "intrinsic",
+          "confidence": "documented",
+          "quote": "third book in Freida McFadden's internationally bestselling Housemaid thriller series",
+          "source": "Bookouture (publisher announcement)",
+          "url": "https://bookouture.com/bookouture-sign-third-book-in-freida-mcfaddens-internationally-bestselling-housemaid-thriller-series-as-sales-soar-to-1-8-million/",
+          "date": "2026-08-11"
+        },
+        {
+          "driver": "SOCIAL_VIRALITY",
+          "kind": "extrinsic",
+          "confidence": "attributed",
+          "quote": "her books gained significant traction on TikTok, driving sales and building a dedicated fanbase",
+          "source": "Trade aggregation via search index",
+          "url": "https://en.wikipedia.org/wiki/The_Housemaid_(novel)",
+          "date": "2026-08-11"
+        },
+        {
+          "driver": "RETAIL_PLACEMENT",
+          "kind": "extrinsic",
+          "confidence": "documented",
+          "quote": "spent 83 weeks on Amazon's best-seller list",
+          "source": "Trade aggregation via search index",
+          "url": "https://en.wikipedia.org/wiki/The_Housemaid_(novel)",
+          "date": "2026-08-11"
+        }
+      ],
+      "unmapped_observations": [
+        "No Tier-2 professional review evidence found at all. A book with three million-plus sales and effectively zero critical coverage — the clearest case in the bucket that the review record does not span the market."
+      ],
+      "evidence_thin": true
+    },
+    {
+      "id": "legends-and-lattes",
+      "title": "Legends & Lattes",
+      "author": "Travis Baldree",
+      "year": 2022,
+      "market": "US",
+      "track": "B",
+      "category": "cosy fantasy",
+      "sales_evidence": [
+        {
+          "claim": "Self-published in early 2022, reached the NYT bestseller list, then acquired by Tor; Hugo and Nebula finalist.",
+          "quote": "initially self-published in early 2022 and to Baldree's surprise, landed on The New York Times bestseller list",
+          "source": "Inlander (via search index; direct fetch returned 429)",
+          "url": "https://www.inlander.com/archive/how-spokane-based-audiobook-narrator-and-veteran-game-developer-travis-baldrees-cozy-fantasy-novel-became/article_462fd504-fb42-5aa5-9552-d61ca138933b.html",
+          "date": "2026-08-11"
+        }
+      ],
+      "drivers": [
+        {
+          "driver": "CATEGORY_FIT",
+          "kind": "intrinsic",
+          "confidence": "documented",
+          "quote": "started an avalanche of love for the sub-genre now called 'cozy fantasy'",
+          "source": "Inlander (via search index)",
+          "url": "https://www.inlander.com/archive/how-spokane-based-audiobook-narrator-and-veteran-game-developer-travis-baldrees-cozy-fantasy-novel-became/article_462fd504-fb42-5aa5-9552-d61ca138933b.html",
+          "date": "2026-08-11"
+        },
+        {
+          "driver": "HIGH_CONCEPT",
+          "kind": "intrinsic",
+          "confidence": "documented",
+          "quote": "a 'cozy' fantasy novel about an orc adventurer named Viv who retires ... to open a peaceful coffee shop",
+          "source": "Inlander (via search index)",
+          "url": "https://www.inlander.com/archive/how-spokane-based-audiobook-narrator-and-veteran-game-developer-travis-baldrees-cozy-fantasy-novel-became/article_462fd504-fb42-5aa5-9552-d61ca138933b.html",
+          "date": "2026-08-11"
+        },
+        {
+          "driver": "PRIZE_RECOGNITION",
+          "kind": "extrinsic",
+          "confidence": "documented",
+          "quote": "nominated for both a Hugo and Nebula award",
+          "source": "Inlander (via search index)",
+          "url": "https://www.inlander.com/archive/how-spokane-based-audiobook-narrator-and-veteran-game-developer-travis-baldrees-cozy-fantasy-novel-became/article_462fd504-fb42-5aa5-9552-d61ca138933b.html",
+          "date": "2026-08-11"
+        },
+        {
+          "driver": "AUTHOR_PLATFORM",
+          "kind": "extrinsic",
+          "confidence": "attributed",
+          "quote": "Spokane-based audiobook narrator and veteran game developer",
+          "source": "Inlander (via search index)",
+          "url": "https://www.inlander.com/archive/how-spokane-based-audiobook-narrator-and-veteran-game-developer-travis-baldrees-cozy-fantasy-novel-became/article_462fd504-fb42-5aa5-9552-d61ca138933b.html",
+          "date": "2026-08-11"
+        }
+      ],
+      "unmapped_observations": [
+        "Written as a NaNoWriMo project. The 'low stakes, no peril' promise was made explicit in the book's own marketing and became the genre's defining term."
+      ],
+      "evidence_thin": false
+    },
+    {
+      "id": "the-love-hypothesis",
+      "title": "The Love Hypothesis",
+      "author": "Ali Hazelwood",
+      "year": 2021,
+      "market": "US",
+      "track": "B",
+      "category": "contemporary romance (STEM setting)",
+      "sales_evidence": [
+        {
+          "claim": "Instant NYT bestseller; originated as Star Wars 'Reylo' fan fiction posted in 2018.",
+          "quote": "The novel became an instant New York Times bestseller and a sensation on TikTok.",
+          "source": "Wikipedia (secondary aggregation)",
+          "url": "https://en.wikipedia.org/wiki/The_Love_Hypothesis",
+          "date": "2026-08-11"
+        }
+      ],
+      "drivers": [
+        {
+          "driver": "SETTING_SALIENCE",
+          "kind": "intrinsic",
+          "confidence": "documented",
+          "quote": "details the abuse of power and the sexism women in STEM face on a daily basis",
+          "source": "The Tempest, author interview",
+          "url": "https://thetempest.co/2021/12/28/books/ali-hazelwood-the-love-hypothesis-interview/",
+          "date": "2026-08-11"
+        },
+        {
+          "driver": "TROPE_STACK",
+          "kind": "intrinsic",
+          "confidence": "documented",
+          "quote": "originally published online in 2018 as 'Head Over Feet,' a Star Wars fan fiction",
+          "source": "Wikipedia (secondary aggregation)",
+          "url": "https://en.wikipedia.org/wiki/The_Love_Hypothesis",
+          "date": "2026-08-11"
+        },
+        {
+          "driver": "SOCIAL_VIRALITY",
+          "kind": "extrinsic",
+          "confidence": "documented",
+          "quote": "earned the title of being a 'BookTok book' through being heavily read and discussed by content creators",
+          "source": "Wikipedia (secondary aggregation)",
+          "url": "https://en.wikipedia.org/wiki/The_Love_Hypothesis",
+          "date": "2026-08-11"
+        }
+      ],
+      "unmapped_observations": [
+        "Pre-existing fanfiction readership functions as an author platform that is invisible in the manuscript. No taxonomy slot; recorded here for a later pass."
+      ],
+      "evidence_thin": true
+    }
+  ]
+}

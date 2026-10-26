@@ -1,0 +1,274 @@
+{
+  "bucket": "2020-2024",
+  "set": "control",
+  "compiled_on": "2026-08-11",
+  "notes": [
+    "Control = published in window, carried strong Tier-2 critical reception, shows no evidence of bestseller-scale readership.",
+    "Readership scale measured by Goodreads rating counts checked 2026-08-11 via the Goodreads search listing. Bucket benchmark: Fourth Wing, 3,900,856 ratings. Control range in this bucket: 9,690 to 37,060 — roughly two orders of magnitude below.",
+    "This is a weak, non-random comparison group. It supports statements about what distinguishes these bestsellers from these non-sellers, and nothing stronger."
+  ],
+  "books": [
+    {
+      "id": "the-new-wilderness",
+      "title": "The New Wilderness",
+      "author": "Diane Cook",
+      "year": 2020,
+      "market": "US/UK",
+      "track": "A",
+      "category": "literary/speculative fiction",
+      "sales_evidence": [],
+      "non_sale_evidence": [
+        {
+          "proxy": "1 — absent from NYT/Sunday Times bestseller list archives for its publication year",
+          "note": "Booker shortlisted 2020; no bestseller-list placement located."
+        },
+        {
+          "proxy": "2 — Goodreads rating count two orders of magnitude below bucket bestsellers",
+          "quote": "3.67 avg rating — 16,993 ratings — published 2020",
+          "source": "Goodreads search listing, checked 2026-08-11",
+          "url": "https://www.goodreads.com/search?q=The+New+Wilderness+Diane+Cook",
+          "date": "2026-08-11"
+        }
+      ],
+      "drivers": [
+        {
+          "driver": "HIGH_CONCEPT",
+          "kind": "intrinsic",
+          "confidence": "attributed",
+          "quote": "inspired",
+          "source": "Eliot Schrefer, USA Today (via Lit Hub Book Marks), on the premise",
+          "url": "https://bookmarks.reviews/reviews/all/the-new-wilderness/",
+          "date": "2026-08-11"
+        },
+        {
+          "driver": "TOPICAL_RESONANCE",
+          "kind": "intrinsic",
+          "confidence": "documented",
+          "quote": "urgent and inventive look at the climate crisis",
+          "source": "Sarah Gilmartin, Irish Times (via Lit Hub Book Marks)",
+          "url": "https://bookmarks.reviews/reviews/all/the-new-wilderness/",
+          "date": "2026-08-11"
+        },
+        {
+          "driver": "CHARACTER_INVESTMENT",
+          "kind": "intrinsic",
+          "confidence": "attributed",
+          "quote": "evolving and ever-surprising relationship between Bea and Agnes",
+          "source": "Eliot Schrefer, USA Today (via Lit Hub Book Marks)",
+          "url": "https://bookmarks.reviews/reviews/all/the-new-wilderness/",
+          "date": "2026-08-11"
+        },
+        {
+          "driver": "SETTING_SALIENCE",
+          "kind": "intrinsic",
+          "confidence": "attributed",
+          "quote": "fiercely precise and intimate",
+          "source": "Donna Seaman, Booklist (via Lit Hub Book Marks), on physical description",
+          "url": "https://bookmarks.reviews/reviews/all/the-new-wilderness/",
+          "date": "2026-08-11"
+        },
+        {
+          "driver": "PROPULSION_MECHANICS",
+          "kind": "intrinsic",
+          "confidence": "attributed",
+          "quote": "propulsive narrative",
+          "source": "Hephzibah Anderson, The Observer (via Lit Hub Book Marks)",
+          "url": "https://bookmarks.reviews/reviews/all/the-new-wilderness/",
+          "date": "2026-08-11"
+        },
+        {
+          "driver": "PRIZE_RECOGNITION",
+          "kind": "extrinsic",
+          "confidence": "documented",
+          "quote": "expertly plotted",
+          "source": "Lamorna Ash, Times Literary Supplement (via Lit Hub Book Marks); Booker shortlist 2020",
+          "url": "https://bookmarks.reviews/reviews/all/the-new-wilderness/",
+          "date": "2026-08-11"
+        }
+      ],
+      "unmapped_observations": [
+        "Named weaknesses cluster on reader warmth and length: Guardian — the distancing style may 'numb the reader'; New York Journal of Books — 'too many pages to get going'. Both are the inverse of drivers the bestsellers evidence strongly."
+      ],
+      "evidence_thin": false
+    },
+    {
+      "id": "checkout-19",
+      "title": "Checkout 19",
+      "author": "Claire-Louise Bennett",
+      "year": 2021,
+      "market": "UK/US",
+      "track": "A",
+      "category": "experimental literary fiction",
+      "sales_evidence": [],
+      "non_sale_evidence": [
+        {
+          "proxy": "1 — absent from NYT/Sunday Times bestseller list archives for its publication year",
+          "note": "Widely and positively reviewed in NYT, New Yorker, LA Times, Guardian; no bestseller-list placement located."
+        },
+        {
+          "proxy": "2 — Goodreads rating count roughly 400x below the bucket benchmark",
+          "quote": "3.16 avg rating — 9,690 ratings — published 2021",
+          "source": "Goodreads search listing, checked 2026-08-11",
+          "url": "https://www.goodreads.com/search?q=Checkout+19+Claire-Louise+Bennett",
+          "date": "2026-08-11"
+        },
+        {
+          "proxy": "Average rating 3.16 — lowest of any book in this bucket, bestseller or control",
+          "quote": "3.16 avg rating",
+          "source": "Goodreads search listing, checked 2026-08-11",
+          "url": "https://www.goodreads.com/search?q=Checkout+19+Claire-Louise+Bennett",
+          "date": "2026-08-11"
+        }
+      ],
+      "drivers": [
+        {
+          "driver": "VOICE_DISTINCTIVENESS",
+          "kind": "intrinsic",
+          "confidence": "documented",
+          "quote": "a narrative voice that is both unstable and unified",
+          "source": "Harper's (via Lit Hub Book Marks)",
+          "url": "https://bookmarks.reviews/reviews/all/checkout-19/",
+          "date": "2026-08-11"
+        },
+        {
+          "driver": "STRUCTURAL_DEVICE",
+          "kind": "intrinsic",
+          "confidence": "attributed",
+          "quote": "deliberate in its construction, down to the individual word, and yet aggressively resistant to definition",
+          "source": "The New Yorker (via Lit Hub Book Marks)",
+          "url": "https://bookmarks.reviews/reviews/all/checkout-19/",
+          "date": "2026-08-11"
+        },
+        {
+          "driver": "QUOTABILITY",
+          "kind": "intrinsic",
+          "confidence": "attributed",
+          "quote": "master of the sentence",
+          "source": "The Los Angeles Times (via Lit Hub Book Marks)",
+          "url": "https://bookmarks.reviews/reviews/all/checkout-19/",
+          "date": "2026-08-11"
+        }
+      ],
+      "unmapped_observations": [
+        "Reviewers who praised the book also named the cost: Guardian — 'At times the effect is exhausting'; Telegraph — 'Some of the wilful reader-unfriendliness is irritating'; New Yorker — narrators with 'no clear story to relate'. PREMISE_LEGIBILITY and PROPULSION_MECHANICS are absent from the acclaim, not merely unrecorded."
+      ],
+      "evidence_thin": false
+    },
+    {
+      "id": "assembly",
+      "title": "Assembly",
+      "author": "Natasha Brown",
+      "year": 2021,
+      "market": "UK/US",
+      "track": "A",
+      "category": "literary fiction (novella)",
+      "sales_evidence": [],
+      "non_sale_evidence": [
+        {
+          "proxy": "1 — absent from NYT/Sunday Times bestseller list archives for its publication year",
+          "note": "Reviewed in NYT, Washington Post, Guardian, TLS; starred trade reviews; no bestseller-list placement located."
+        },
+        {
+          "proxy": "2 — Goodreads rating count roughly 100x below the bucket benchmark",
+          "quote": "3.79 avg rating — 37,060 ratings — published 2021",
+          "source": "Goodreads search listing, checked 2026-08-11",
+          "url": "https://www.goodreads.com/search?q=Assembly+Natasha+Brown",
+          "date": "2026-08-11"
+        }
+      ],
+      "drivers": [
+        {
+          "driver": "VOICE_DISTINCTIVENESS",
+          "kind": "intrinsic",
+          "confidence": "documented",
+          "quote": "perceptive, precise and unsparing",
+          "source": "Lovia Gyarkye, The New York Times (via Lit Hub Book Marks)",
+          "url": "https://bookmarks.reviews/reviews/all/assembly/",
+          "date": "2026-08-11"
+        },
+        {
+          "driver": "TOPICAL_RESONANCE",
+          "kind": "intrinsic",
+          "confidence": "documented",
+          "quote": "race, class, wealth, and gender disparities",
+          "source": "Kirkus (via Lit Hub Book Marks)",
+          "url": "https://bookmarks.reviews/reviews/all/assembly/",
+          "date": "2026-08-11"
+        },
+        {
+          "driver": "PROPULSION_MECHANICS",
+          "kind": "intrinsic",
+          "confidence": "attributed",
+          "quote": "moves at an almost dizzying speed",
+          "source": "Lovia Gyarkye, The New York Times (via Lit Hub Book Marks)",
+          "url": "https://bookmarks.reviews/reviews/all/assembly/",
+          "date": "2026-08-11"
+        },
+        {
+          "driver": "EMOTIONAL_AMPLITUDE",
+          "kind": "intrinsic",
+          "confidence": "attributed",
+          "quote": "propulsive, devastating book",
+          "source": "Gwendolyn Smith, iNews (via Lit Hub Book Marks)",
+          "url": "https://bookmarks.reviews/reviews/all/assembly/",
+          "date": "2026-08-11"
+        },
+        {
+          "driver": "STRUCTURAL_DEVICE",
+          "kind": "intrinsic",
+          "confidence": "attributed",
+          "quote": "fragmented, urgent chapters",
+          "source": "Jackie Thomas-Kennedy, Star Tribune (via Lit Hub Book Marks)",
+          "url": "https://bookmarks.reviews/reviews/all/assembly/",
+          "date": "2026-08-11"
+        }
+      ],
+      "unmapped_observations": [
+        "Guardian notes the form requires readers to 'supply the connective tissue' — a demand on the reader that none of the bucket's bestsellers make."
+      ],
+      "evidence_thin": false
+    },
+    {
+      "id": "the-netanyahus",
+      "title": "The Netanyahus",
+      "author": "Joshua Cohen",
+      "year": 2021,
+      "market": "US",
+      "track": "A",
+      "category": "literary comic fiction",
+      "sales_evidence": [],
+      "non_sale_evidence": [
+        {
+          "proxy": "1 — absent from NYT bestseller list archives; won the 2022 Pulitzer Prize for Fiction without prior bestseller status",
+          "quote": "NYRB had over 2,000 copies of The Netanyahus in stock when the prize was announced",
+          "source": "Publishers Weekly",
+          "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/awards-and-prizes/article/89252-the-netanyahus-frank-sonnets-among-2022-pulitzer-prize-winners.html",
+          "date": "2026-08-11"
+        },
+        {
+          "proxy": "2 — Goodreads rating count roughly 200x below the bucket benchmark, despite a Pulitzer",
+          "quote": "3.79 avg rating — 19,963 ratings — published 2021",
+          "source": "Goodreads search listing, checked 2026-08-11",
+          "url": "https://www.goodreads.com/search?q=The+Netanyahus+Joshua+Cohen",
+          "date": "2026-08-11"
+        }
+      ],
+      "drivers": [
+        {
+          "driver": "PRIZE_RECOGNITION",
+          "kind": "extrinsic",
+          "confidence": "documented",
+          "quote": "orders in for nearly 10,000 copies, a huge portion of which are coming from independent bookstores",
+          "source": "Publishers Weekly, on the day after the Pulitzer announcement",
+          "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/awards-and-prizes/article/89252-the-netanyahus-frank-sonnets-among-2022-pulitzer-prize-winners.html",
+          "date": "2026-08-11"
+        }
+      ],
+      "unmapped_observations": [
+        "Included as a control despite the Pulitzer precisely because it shows a top prize converting to roughly 12,000 copies of demand — three orders of magnitude below the bucket's Track B sellers. Useful ceiling on how much PRIZE_RECOGNITION alone is worth.",
+        "Intrinsic driver evidence not collected: the Book Marks page did not resolve. Record is deliberately incomplete rather than padded."
+      ],
+      "evidence_thin": true
+    }
+  ]
+}
